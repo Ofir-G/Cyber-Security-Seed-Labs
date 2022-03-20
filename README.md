@@ -1,5 +1,5 @@
 ### Seed Labs - Network Security
-This is my solutions for some of the [seed labs](https://seedsecuritylabs.org/) network security, using Ubuntu 16.04.
+These are my solutions for some of the [seed labs](https://seedsecuritylabs.org/) network security, using Ubuntu 16.04.
 The assignments are in each folder.
 
 ### Labs
